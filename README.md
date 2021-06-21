@@ -32,5 +32,5 @@ In order to test, open the console and run the following:
 ```python manage.py test```
 
 ### Questions:
-If you have any questions please contact me on [GitHub](https://github.com/calebthecurious) or contact Caleb Ha at calebthecurious@gmail.com
+If you have any questions please contact me on [GitHub](https://github.com/calebthecurious) or contact Caleb Ha at calebthecurious@gmail.com.
 
